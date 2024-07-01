@@ -43,9 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EsdrasZero/EsdrasZero/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/esdras-mendes/" target="_blank">
