@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024<br>    📚 I am currently pursuing a postgraduate degree<br>    🎯 Goals: live in a cold place ❄ <br>    🎲 And ... i play video games 🎮 and my sport is bodybuilding 🏋🏿‍♂️</p>
+<p align="left">✨ Coding since 2024<br>    📚 Postgraduate degree in full stack development - FIAP <br>    🎯 Goals: live in a cold place ❄ <br>    🎲 And ... i play video games 🎮 and my sport is bodybuilding 🏋🏿‍♂️</p>
 
 ###
 
